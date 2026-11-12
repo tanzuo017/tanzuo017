@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Tanzim Redwan: building digital tools for public health">
+  <img src="banner.svg" width="100%" alt="Tanzim Redwan: building digital tools for public health">
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/tanzuo017/escape-the-readme/blob/main/play/start.md">
-    <img src="assets/escape-the-readme.webp" width="640" alt="Escape the README: click to play">
+    <img src="escape-the-readme.webp" width="640" alt="Escape the README: click to play">
   </a>
   <br>
   <sub>▶ <b><a href="https://github.com/tanzuo017/escape-the-readme/blob/main/play/start.md">Click to play <i>Escape the README</i></a></b>, a first-person maze that runs inside GitHub.<br>
