@@ -15,13 +15,13 @@
 
 <br>
 
-## 👋 Hey, I'm Tanzim
+## Sup, I'm Tanzim
 
-I build digital tools for public health at **Project Q2**.
+I build digital tools for public health while also buildling **Project Q2**.
 
-- 🩺 Turning paper clinical records into clean, structured data, in English **and** বাংলা
-- 📈 Making outbreak data readable: curves, heat maps, plain language
-- 🎮 Currently hiding my portfolio inside a maze (see above)
+-  Turning paper clinical records into clean, structured data, in English **and** বাংলা
+-  Making outbreak data readable: curves, heat maps, plain language
+-  Currently hiding my portfolio inside a maze (see above)
 
 ## 🗂️ Featured work
 
